@@ -7,7 +7,7 @@ function Resume(){
       <div className="cards montserrat-App">
         <h3 className="head">About me</h3>
         <h4>Education</h4>
-        <a href="https://drive.google.com/file/d/1nLWo5CSRCnnthN61sfMQpvx_VXD2hzte/view?usp=drivesdk"><button type="button" className="btnn">Download CV</button></a>
+        <a href="https://drive.google.com/file/d/1tvQAVBCbhduzkaGTyHsV8yLd8bYOw4fK/view?usp=drivesdk"><button type="button" className="btnn">Download CV</button></a>
         
       <div className="resume">
         <div className="template edu">

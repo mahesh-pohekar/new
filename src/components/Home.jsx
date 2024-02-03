@@ -23,7 +23,7 @@ function Home(){
                 <div className="profile-info">
                     <p id="hello">Hello</p> 
                     <h4>Here's who I am & what I do</h4>
-                    <a href="https://drive.google.com/file/d/1nLWo5CSRCnnthN61sfMQpvx_VXD2hzte/view?usp=drivesdk"><button type="button" className="btnn">Resume</button></a>
+                    <a href="https://drive.google.com/file/d/1tvQAVBCbhduzkaGTyHsV8yLd8bYOw4fK/view?usp=drivesdk"><button type="button" className="btnn">Resume</button></a>
                     <p>
                       I'm a dynamic Full Stack Developer with expertise in Java, Data Structures,etc. 
                       Proficient in React, Node.js, and Express.js for creating seamless web applications. 
